@@ -1,0 +1,8 @@
+{
+  apps : [
+    {
+      name: "kiktop-admin",
+      script: "npm start"
+    }
+  ]
+}
